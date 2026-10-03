@@ -1,4 +1,5 @@
 # UVA Medical Center Quality & Performance Benchmarking
+Healthcare analytics project benchmarking UVA Medical Center across 12 CMS quality measures against 86 Virginia peer hospitals using five CMS datasets linked by Facility ID. Built with Python, SQL, statistical benchmarking, z-scores, and Power BI.
 
 ## Project Overview
 
